@@ -3,6 +3,10 @@ langchain
 langchain-core
 langchain-community
 
+#work with pdf files
+unstructured
+pdfminer
+
 # OpenAI Integration
 langchain-openai
 openai
