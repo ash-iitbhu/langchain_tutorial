@@ -34,3 +34,10 @@ sentence-transformers
 
 #UI
 streamlit
+
+#vector stores
+chromadb 
+faiss-cpu
+
+tiktoken 
+wikipedia
